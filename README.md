@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokendrasai
-- 👀 I’m interested in coding and inventing new things
+- 👀 I’m interested in reading your brain jk intrested in software development 
 - 🌱 I’m currently learning machine learning and app development
 - 💞️ I’m looking to collaborate on projects based on app building 
 - 📫 How to reach me 
