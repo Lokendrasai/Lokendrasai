@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning machine learning and app development.
 - 💞️ I’m looking to collaborate on projects based on app building. 
 - 📫 How to reach me 
-MAIL ID-lokendra.20bce7382@vitap.ac.in,
+MAIL ID-lokendra.20bce7382@vitap.ac.in,                 
+ 
 LINKDN-https://www.linkedin.com/in/b-lokendra-sri-sai-7030a4201/,
+
 https://lokendrasai.github.io/Lokendra_sai.io/,
+
 NUMBER-939256888 .
 
 
