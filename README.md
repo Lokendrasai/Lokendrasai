@@ -7,7 +7,7 @@ MAIL ID-lokendra.20bce7382@vitap.ac.in,
  
 LINKDN-https://www.linkedin.com/in/b-lokendra-sri-sai-7030a4201/,
 
-https://lokendrasai.github.io/Lokendra_sai.io/,
+https://lokendrasai.github.io/Bethu.Lokendra-Sri-Sai/,
 
 NUMBER-939256888 .
 
